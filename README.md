@@ -1,4 +1,4 @@
-# gdscript_network
+# GDScript Network
 Network custom for Godot 4.x
 
-Todo o código escrito em C# foi convertido para GDScript.
+All the code written in C# has been converted to GDScript.
